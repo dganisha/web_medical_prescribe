@@ -31,7 +31,10 @@ php artisan key:generate
 
 4) Configure Environment
 
-Copy `.env.example` to `.env`
+Copy `.env.example` to `.env` or run: 
+```bash
+cp .env.example .env
+```
 
 Please configuration `database`
 
