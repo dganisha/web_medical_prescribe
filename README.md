@@ -44,7 +44,7 @@ API_PASSWORD=087898292270
 
 5) Restore Database
 
-You can restore database from my local database from `/database/`, this restore will fill the table and all data. And you can skip step 5 and 6.
+You can restore database from my local database from `/database/database_dump.sql`, this restore will fill the table and all data. And you can skip step 5 and 6.
 
 5) Run migrations (optional)
 ```bash
